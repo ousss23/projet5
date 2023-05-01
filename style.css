@@ -58,14 +58,12 @@ button:active {
 }
 
 button[data-key="8"] {
-  background-color: #ff9900;
   font-weight: bold;
   color: white;
 }
 
 button[data-key="13"] {
   grid-column: span 2;
-  background-color: #36e700;
   font-weight: bold;
   color: white;
   font-size: 35px;
